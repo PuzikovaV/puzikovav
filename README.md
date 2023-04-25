@@ -1,4 +1,4 @@
-(https://github.com/PuzikovaV/puzikovav/blob/main/assets/hello-world.png)
+[Header](https://github.com/PuzikovaV/puzikovav/blob/main/assets/hello-world.png)
 
 About me
 
