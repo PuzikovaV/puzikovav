@@ -1,5 +1,7 @@
 ![Header](https://github.com/PuzikovaV/puzikovav/blob/main/assets/hello-world.png)
 
-About me
+## Я начинающий тестировщик
 
-Languages and Tools
+## Инструменты
+
+![Postman](https://img.shields.io/badge/Postman-ffffff?style=flat-square&logo=Postman)
